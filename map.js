@@ -7,4 +7,6 @@ let createMap = () => {
     }).addTo(map); 
     return map
 }
-createMap();
+let map = createMap();
+
+
