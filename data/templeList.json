@@ -1,0 +1,2459 @@
+{
+  "0": {
+    "lat": "1.315596",
+    "lng": "103.880264",
+    "chiName": "壹伍玖济正宫",
+    "engName": "159 Ji Zheng Gong",
+    "main-deity": ""
+  },
+  "1": {
+    "lat": "1.347117",
+    "lng": "103.740074",
+    "chiName": "爱民宫",
+    "engName": "Aik Beng Keng",
+    "main-deity": ""
+  },
+  "2": {
+    "lat": "1.311550",
+    "lng": "103.760551",
+    "chiName": "安济圣王庙",
+    "engName": "Ang Chee Sia Ong Temple",
+    "main-deity": ""
+  },
+  "3": {
+    "lat": "1.366330",
+    "lng": "103.838722",
+    "chiName": "宏茂桥联合庙",
+    "engName": "Ang Mo Kio Joint Temple",
+    "main-deity": ""
+  },
+  "4": {
+    "lat": "1.352888",
+    "lng": "103.880150",
+    "chiName": "安仁宫",
+    "engName": "Ann Jin Kiong",
+    "main-deity": ""
+  },
+  "5": {
+    "lat": "1.377773",
+    "lng": "103.774078",
+    "chiName": "木山圣母宫",
+    "engName": "Bak Sua Siah Boo Temple",
+    "main-deity": ""
+  },
+  "6": {
+    "lat": "1.273349",
+    "lng": "103.811790",
+    "chiName": "万寿山观音堂",
+    "engName": "Ban Siew San Kuan Im Tong",
+    "main-deity": ""
+  },
+  "7": {
+    "lat": "1.391533",
+    "lng": "103.871925",
+    "chiName": "包公庙",
+    "engName": "Bao Gong Temple",
+    "main-deity": ""
+  },
+  "8": {
+    "lat": "1.317244",
+    "lng": "103.873154",
+    "chiName": "保生庙",
+    "engName": "Bao Sheng Miao",
+    "main-deity": ""
+  },
+  "9": {
+    "lat": "1.339128",
+    "lng": "103.773506",
+    "chiName": "天竺山毗卢寺",
+    "engName": "Beeh Low See Buddhist Temple",
+    "main-deity": ""
+  },
+  "10": {
+    "lat": "1.316161",
+    "lng": "103.857857",
+    "chiName": "祖佛海南山庙",
+    "engName": "Beo San Hood Chor Temple",
+    "main-deity": ""
+  },
+  "11": {
+    "lat": "1.416920",
+    "lng": "103.943542",
+    "chiName": "德国姑娘/拿督姑娘庙",
+    "engName": "Berlin Heiligtum / German Girl Shrine",
+    "main-deity": ""
+  },
+  "12": {
+    "lat": "1.345712",
+    "lng": "103.843315",
+    "chiName": "碧山庙",
+    "engName": "Bishan Temple",
+    "main-deity": ""
+  },
+  "13": {
+    "lat": "1.312404",
+    "lng": "103.859093",
+    "chiName": "文友善堂",
+    "engName": "Boon Yew Siang Theon",
+    "main-deity": ""
+  },
+  "14": {
+    "lat": "1.281467",
+    "lng": "103.844330",
+    "chiName": "佛牙寺",
+    "engName": "Buddha Tooth Relic Temple",
+    "main-deity": ""
+  },
+  "15": {
+    "lat": "1.346302",
+    "lng": "103.751152",
+    "chiName": "武吉巴督联合宫",
+    "engName": "Bukit Batok Joint Temple",
+    "main-deity": ""
+  },
+  "16": {
+    "lat": "1.341797",
+    "lng": "103.741325",
+    "chiName": "武吉知马修德善堂",
+    "engName": "Bukit Timah Seu Teck Sean Tong",
+    "main-deity": ""
+  },
+  "17": {
+    "lat": "1.341214",
+    "lng": "103.774521",
+    "chiName": "武吉知马大伯公宫",
+    "engName": "Bukit Timah Tua Pek Kong Temple",
+    "main-deity": ""
+  },
+  "18": {
+    "lat": "1.328454",
+    "lng": "103.919167",
+    "chiName": "菜市联合宫",
+    "engName": "Chai Chee United Temple",
+    "main-deity": ""
+  },
+  "19": {
+    "lat": "1.281474",
+    "lng": "103.814278",
+    "chiName": "齐天坛",
+    "engName": "Chai Tien Tua",
+    "main-deity": ""
+  },
+  "20": {
+    "lat": "1.311091",
+    "lng": "103.881355",
+    "chiName": "禅宗寺",
+    "engName": "Chan Zong Si",
+    "main-deity": ""
+  },
+  "21": {
+    "lat": "1.365876",
+    "lng": "103.895477",
+    "chiName": "长天宫",
+    "engName": "Chang Tien Kong Temple",
+    "main-deity": ""
+  },
+  "22": {
+    "lat": "1.358850",
+    "lng": "103.892570",
+    "chiName": "朝云宫",
+    "engName": "Chao Ying Kong",
+    "main-deity": ""
+  },
+  "23": {
+    "lat": "1.325848",
+    "lng": "103.891312",
+    "chiName": "葱茅园九皇宫",
+    "engName": "Charn Mao Hern Kew Huang Keng",
+    "main-deity": ""
+  },
+  "24": {
+    "lat": "1.278633",
+    "lng": "103.840706",
+    "chiName": "紫玄阁",
+    "engName": "Che Hian Khor Moral Uplifting Society",
+    "main-deity": ""
+  },
+  "25": {
+    "lat": "1.305085",
+    "lng": "103.828094",
+    "chiName": "德教会紫新阁",
+    "engName": "Che Sen Khor Moral Uplifting Society",
+    "main-deity": ""
+  },
+  "26": {
+    "lat": "1.350895",
+    "lng": "103.721504",
+    "chiName": "紫盈阁",
+    "engName": "Che Wein Khor",
+    "main-deity": ""
+  },
+  "27": {
+    "lat": "1.331435",
+    "lng": "103.880074",
+    "chiName": "慈忠庙",
+    "engName": "Chee Chung Temple",
+    "main-deity": ""
+  },
+  "28": {
+    "lat": "1.322405",
+    "lng": "103.761452",
+    "chiName": "慈义堂将军庙",
+    "engName": "Chee Ghee Deang Chiang Chin Meow",
+    "main-deity": ""
+  },
+  "29": {
+    "lat": "1.322073",
+    "lng": "103.954407",
+    "chiName": "济云阁",
+    "engName": "Chee Hoon Kog Moral Promotion Society",
+    "main-deity": ""
+  },
+  "30": {
+    "lat": "1.443550",
+    "lng": "103.835419",
+    "chiName": "慈云山宫",
+    "engName": "Chee Hoon Sun Kong",
+    "main-deity": ""
+  },
+  "31": {
+    "lat": "1.393858",
+    "lng": "103.890282",
+    "chiName": "济芳阁",
+    "engName": "Chee Hwan Kog",
+    "main-deity": ""
+  },
+  "32": {
+    "lat": "1.443550",
+    "lng": "103.835419",
+    "chiName": "慈灵联合庙",
+    "engName": "Chee Leng Lian He Miao",
+    "main-deity": ""
+  },
+  "33": {
+    "lat": "1.391565",
+    "lng": "103.742569",
+    "chiName": "齐神宫",
+    "engName": "Chee Seng Temple",
+    "main-deity": ""
+  },
+  "34": {
+    "lat": "1.338579",
+    "lng": "103.856422",
+    "chiName": "聚天宫",
+    "engName": "Chee Tian Keng Temple",
+    "main-deity": ""
+  },
+  "35": {
+    "lat": "1.358871",
+    "lng": "103.892189",
+    "chiName": "慈忠坛",
+    "engName": "Chee Tong Temple",
+    "main-deity": ""
+  },
+  "36": {
+    "lat": "1.436092",
+    "lng": "103.753273",
+    "chiName": "七寨龙泉庙",
+    "engName": "Chek Chai Long Chuen",
+    "main-deity": ""
+  },
+  "37": {
+    "lat": "1.368184",
+    "lng": "103.857101",
+    "chiName": "积善堂",
+    "engName": "Chek Sian Tng",
+    "main-deity": ""
+  },
+  "38": {
+    "lat": "1.326309",
+    "lng": "103.891785",
+    "chiName": "城凤联合庙",
+    "engName": "Cheng Feng Lian He Miao",
+    "main-deity": ""
+  },
+  "39": {
+    "lat": "1.325848",
+    "lng": "103.891312",
+    "chiName": "众弘善堂",
+    "engName": "Cheng Hong Siang Tng",
+    "main-deity": ""
+  },
+  "40": {
+    "lat": "1.325848",
+    "lng": "103.891312",
+    "chiName": "众弘善堂九皇宫",
+    "engName": "Cheng Hong Siang Tng Kew Huang Keng",
+    "main-deity": ""
+  },
+  "41": {
+    "lat": "1.377773",
+    "lng": "103.774078",
+    "chiName": "正华慈圣宫",
+    "engName": "Cheng Hwa Cher Siah Temple",
+    "main-deity": ""
+  },
+  "42": {
+    "lat": "1.335576",
+    "lng": "103.949036",
+    "chiName": "石雾洞",
+    "engName": "Cheo Bu Tong",
+    "main-deity": ""
+  },
+  "43": {
+    "lat": "1.335576",
+    "lng": "103.949036",
+    "chiName": "石林晋山联合宫",
+    "engName": "Cheo Lim Chin Sun Lian Hup Keng",
+    "main-deity": ""
+  },
+  "44": {
+    "lat": "1.315242",
+    "lng": "103.857170",
+    "chiName": "昭惠庙",
+    "engName": "Cheow Hwee Temple",
+    "main-deity": ""
+  },
+  "45": {
+    "lat": "1.443434",
+    "lng": "103.835518",
+    "chiName": "昭灵庙",
+    "engName": "Cheow Leng Beo",
+    "main-deity": ""
+  },
+  "46": {
+    "lat": "1.377773",
+    "lng": "103.774078",
+    "chiName": "慈莲堂",
+    "engName": "Cher Lian Tong Buddhist Temple",
+    "main-deity": ""
+  },
+  "47": {
+    "lat": "1.433824",
+    "lng": "103.841576",
+    "chiName": "镇南庙广寿堂",
+    "engName": "Chern Nam Kong Siew Temple",
+    "main-deity": ""
+  },
+  "48": {
+    "lat": "1.317906",
+    "lng": "103.880478",
+    "chiName": "青龙宫",
+    "engName": "Chi Leng Keng",
+    "main-deity": ""
+  },
+  "49": {
+    "lat": "1.277527",
+    "lng": "103.828781",
+    "chiName": "正龙宫玄江殿",
+    "engName": "Chia Leng Kong Heng Kang Tian",
+    "main-deity": ""
+  },
+  "50": {
+    "lat": "1.352888",
+    "lng": "103.880150",
+    "chiName": "锦福庙",
+    "engName": "Chin Fook Meow",
+    "main-deity": ""
+  },
+  "51": {
+    "lat": "1.288210",
+    "lng": "103.815697",
+    "chiName": "真龙宫",
+    "engName": "Chin Leng Keng",
+    "main-deity": ""
+  },
+  "52": {
+    "lat": "1.288210",
+    "lng": "103.815697",
+    "chiName": "真龙宫万仙庙",
+    "engName": "Chin Leng Keng Ban Sian Beo",
+    "main-deity": ""
+  },
+  "53": {
+    "lat": "1.288210",
+    "lng": "103.815697",
+    "chiName": "真龙宫真人宫",
+    "engName": "Chin Leng Keng Chin Lin Keng",
+    "main-deity": ""
+  },
+  "54": {
+    "lat": "1.288210",
+    "lng": "103.815697",
+    "chiName": "真龙宫介谷殿",
+    "engName": "Chin Leng Keng Kai Kok Tian",
+    "main-deity": ""
+  },
+  "55": {
+    "lat": "1.288210",
+    "lng": "103.815697",
+    "chiName": "真龙宫龙山亭",
+    "engName": "Chin Leng Keng Leng San Teng",
+    "main-deity": ""
+  },
+  "56": {
+    "lat": "1.335576",
+    "lng": "103.949036",
+    "chiName": "普平寺善联山宫",
+    "engName": "Chin Pin Tze San Lian Sun",
+    "main-deity": ""
+  },
+  "57": {
+    "lat": "1.452336",
+    "lng": "103.800568",
+    "chiName": "清水庙东圣殿",
+    "engName": "Ching Chwee Temple",
+    "main-deity": ""
+  },
+  "58": {
+    "lat": "1.391694",
+    "lng": "103.742867",
+    "chiName": "蔡厝港联合殿",
+    "engName": "Choa Chu Kang Lian He Temple",
+    "main-deity": ""
+  },
+  "59": {
+    "lat": "1.380539",
+    "lng": "103.753639",
+    "chiName": "蔡厝港斗母宫",
+    "engName": "Choa Chu Kang Tao Bu Keng",
+    "main-deity": ""
+  },
+  "60": {
+    "lat": "1.391501",
+    "lng": "103.742264",
+    "chiName": "油池村联合庙",
+    "engName": "Choa Chu Kang Yew Tee Chun Lian He Miow",
+    "main-deity": ""
+  },
+  "61": {
+    "lat": "1.389155",
+    "lng": "103.907043",
+    "chiName": "万兴山崇义庙",
+    "engName": "Chong Ghee Temple",
+    "main-deity": ""
+  },
+  "62": {
+    "lat": "1.346262",
+    "lng": "103.870789",
+    "chiName": "崇福堂",
+    "engName": "Chong Hock Tong Temple",
+    "main-deity": ""
+  },
+  "63": {
+    "lat": "1.434767",
+    "lng": "103.832520",
+    "chiName": "忠邦联合宫",
+    "engName": "Chong Pang Combined Temple",
+    "main-deity": ""
+  },
+  "64": {
+    "lat": "1.313645",
+    "lng": "103.883156",
+    "chiName": "忠德佛堂",
+    "engName": "Chong Tuck Tong Temple",
+    "main-deity": ""
+  },
+  "65": {
+    "lat": "1.338579",
+    "lng": "103.856422",
+    "chiName": "昭应祠",
+    "engName": "Chow Eng Chee",
+    "main-deity": ""
+  },
+  "66": {
+    "lat": "1.380196",
+    "lng": "103.843460",
+    "chiName": "聚圣庙",
+    "engName": "Chu Sheng Temple",
+    "main-deity": ""
+  },
+  "67": {
+    "lat": "1.434725",
+    "lng": "103.833206",
+    "chiName": "聚善堂",
+    "engName": "Chu Siang Tong",
+    "main-deity": ""
+  },
+  "68": {
+    "lat": "1.434725",
+    "lng": "103.833206",
+    "chiName": "聚善华山宫",
+    "engName": "Chu Siang Wah Sua Temple",
+    "main-deity": ""
+  },
+  "69": {
+    "lat": "1.380539",
+    "lng": "103.753639",
+    "chiName": "蔡厝港联圣宫",
+    "engName": "Chua Chu Kang Lian Sing Keng",
+    "main-deity": ""
+  },
+  "70": {
+    "lat": "1.275682",
+    "lng": "103.794319",
+    "chiName": "崇峰善堂",
+    "engName": "Chung Hong Siang Tng",
+    "main-deity": ""
+  },
+  "71": {
+    "lat": "1.280819",
+    "lng": "103.845863",
+    "chiName": "新加坡中山海洲会馆",
+    "engName": "Chung Shan Hoizou Association",
+    "main-deity": ""
+  },
+  "72": {
+    "lat": "1.315326",
+    "lng": "103.869980",
+    "chiName": "水江庙",
+    "engName": "Chwee Kang Beo",
+    "main-deity": ""
+  },
+  "73": {
+    "lat": "1.333880",
+    "lng": "103.848862",
+    "chiName": "慈恩阁",
+    "engName": "Ci Ern Ge",
+    "main-deity": ""
+  },
+  "74": {
+    "lat": "1.347546",
+    "lng": "103.703041",
+    "chiName": "慈善堂",
+    "engName": "Ci Shan Tan",
+    "main-deity": ""
+  },
+  "75": {
+    "lat": "1.279624",
+    "lng": "103.841492",
+    "chiName": "準提宫",
+    "engName": "Cundhi Gong",
+    "main-deity": ""
+  },
+  "76": {
+    "lat": "1.328454",
+    "lng": "103.890923",
+    "chiName": "大圣宫",
+    "engName": "Da Sheng Kong",
+    "main-deity": ""
+  },
+  "77": {
+    "lat": "1.422712",
+    "lng": "103.832993",
+    "chiName": "东山庙",
+    "engName": "Dong Shan Temple",
+    "main-deity": ""
+  },
+  "78": {
+    "lat": "1.391501",
+    "lng": "103.742264",
+    "chiName": "龙莲花山宫",
+    "engName": "Dragon Lotus Hill Temple",
+    "main-deity": ""
+  },
+  "79": {
+    "lat": "1.349396",
+    "lng": "103.879623",
+    "chiName": "法华禅寺",
+    "engName": "Fa Hua Monastery",
+    "main-deity": ""
+  },
+  "80": {
+    "lat": "1.312565",
+    "lng": "103.857307",
+    "chiName": "花果山福广宫",
+    "engName": "Far Kor Sun Monkey God Temple",
+    "main-deity": ""
+  },
+  "81": {
+    "lat": "1.451172",
+    "lng": "103.795128",
+    "chiName": "飞龙宫",
+    "engName": "Fei Loong Gong",
+    "main-deity": ""
+  },
+  "82": {
+    "lat": "1.383885",
+    "lng": "103.844315",
+    "chiName": "凤山堂",
+    "engName": "Feng Shan Tang",
+    "main-deity": ""
+  },
+  "83": {
+    "lat": "1.317986",
+    "lng": "103.888893",
+    "chiName": "福海禅寺",
+    "engName": "Foo Hai Chan Monastery",
+    "main-deity": ""
+  },
+  "84": {
+    "lat": "1.324111",
+    "lng": "103.853630",
+    "chiName": "芋峡塘福德宫",
+    "engName": "Fu Hup Thong Fook Tak Kung",
+    "main-deity": ""
+  },
+  "85": {
+    "lat": "1.347546",
+    "lng": "103.703041",
+    "chiName": "福安庙",
+    "engName": "Fu'an Temple",
+    "main-deity": ""
+  },
+  "86": {
+    "lat": "1.282910",
+    "lng": "103.848862",
+    "chiName": "海唇福德祠",
+    "engName": "Fuk Tak Chi",
+    "main-deity": ""
+  },
+  "87": {
+    "lat": "1.338579",
+    "lng": "103.856422",
+    "chiName": "山竹园福德祠",
+    "engName": "Fuk Tuck Chee Association",
+    "main-deity": ""
+  },
+  "88": {
+    "lat": "1.328454",
+    "lng": "103.890923",
+    "chiName": "风火院",
+    "engName": "Fung Huo Yuan",
+    "main-deity": ""
+  },
+  "89": {
+    "lat": "1.319702",
+    "lng": "103.896156",
+    "chiName": "芽笼联合宫",
+    "engName": "Geylang United Temple",
+    "main-deity": ""
+  },
+  "90": {
+    "lat": "1.321590",
+    "lng": "103.852730",
+    "chiName": "梧槽大伯公庙",
+    "engName": "Goh Chor Tua Pek Kong Temple",
+    "main-deity": ""
+  },
+  "91": {
+    "lat": "1.433824",
+    "lng": "103.841576",
+    "chiName": "元龙圣庙",
+    "engName": "Guan Loong Sheng Temple",
+    "main-deity": ""
+  },
+  "92": {
+    "lat": "1.352952",
+    "lng": "103.724030",
+    "chiName": "观山殿",
+    "engName": "Guan Shan Dian",
+    "main-deity": ""
+  },
+  "93": {
+    "lat": "1.314385",
+    "lng": "103.882301",
+    "chiName": "关善庙大贰坛",
+    "engName": "Guan Shan Temple",
+    "main-deity": ""
+  },
+  "94": {
+    "lat": "1.347117",
+    "lng": "103.740074",
+    "chiName": "桂林联合庙",
+    "engName": "Guilin Combined Temple",
+    "main-deity": ""
+  },
+  "95": {
+    "lat": "1.350592",
+    "lng": "103.835823",
+    "chiName": "海南山天公坛",
+    "engName": "Hai Lam Sua Tee Kong Toa",
+    "main-deity": ""
+  },
+  "96": {
+    "lat": "1.274330",
+    "lng": "103.807671",
+    "chiName": "协和宫",
+    "engName": "Heap Hoe Keng",
+    "main-deity": ""
+  },
+  "97": {
+    "lat": "1.369038",
+    "lng": "103.872955",
+    "chiName": "玄夫仙庙",
+    "engName": "Hiang Foo Siang Temple",
+    "main-deity": ""
+  },
+  "98": {
+    "lat": "1.312490",
+    "lng": "103.883377",
+    "chiName": "玄灵宫",
+    "engName": "Hiang Leng Gong Temple",
+    "main-deity": ""
+  },
+  "99": {
+    "lat": "1.367514",
+    "lng": "103.928833",
+    "chiName": "贤当宫大伯公",
+    "engName": "Hiang Tong Keng Tua Pek Kong",
+    "main-deity": ""
+  },
+  "100": {
+    "lat": "1.368349",
+    "lng": "103.930389",
+    "chiName": "协天宫灵宝殿",
+    "engName": "Hiap Tien Keng Leng Poh Tian",
+    "main-deity": ""
+  },
+  "101": {
+    "lat": "1.443431",
+    "lng": "103.835510",
+    "chiName": "福发宫",
+    "engName": "Hock Huat Keng",
+    "main-deity": ""
+  },
+  "102": {
+    "lat": "1.328454",
+    "lng": "103.919167",
+    "chiName": "福灵宫",
+    "engName": "Hock Leng Keng",
+    "main-deity": ""
+  },
+  "103": {
+    "lat": "1.328454",
+    "lng": "103.919167",
+    "chiName": "福山亭",
+    "engName": "Hock San Teng",
+    "main-deity": ""
+  },
+  "104": {
+    "lat": "1.314630",
+    "lng": "103.856522",
+    "chiName": "福寿堂",
+    "engName": "Hock Siew Tong Temple",
+    "main-deity": ""
+  },
+  "105": {
+    "lat": "1.273483",
+    "lng": "103.846504",
+    "chiName": "客属八邑福德祠",
+    "engName": "Hock Teck See or Fook Tet Soo Hakka Temple",
+    "main-deity": ""
+  },
+  "106": {
+    "lat": "1.289626",
+    "lng": "103.832687",
+    "chiName": "福德堂 (龟屿大伯公)",
+    "engName": "Hock Teck Tong",
+    "main-deity": ""
+  },
+  "107": {
+    "lat": "1.340296",
+    "lng": "103.757072",
+    "chiName": "福通联合庙",
+    "engName": "Hock Thong Temple",
+    "main-deity": ""
+  },
+  "108": {
+    "lat": "1.326309",
+    "lng": "103.891785",
+    "chiName": "凤玄宫",
+    "engName": "Hong Hian Keng",
+    "main-deity": ""
+  },
+  "109": {
+    "lat": "1.312356",
+    "lng": "103.884850",
+    "chiName": "凤廓汾阳公会",
+    "engName": "Hong Kuak Hoon Yang Kong See",
+    "main-deity": ""
+  },
+  "110": {
+    "lat": "1.313994",
+    "lng": "103.845070",
+    "chiName": "云龙院",
+    "engName": "Hong Leng Yien Temple",
+    "main-deity": ""
+  },
+  "111": {
+    "lat": "1.434767",
+    "lng": "103.832520",
+    "chiName": "汫水港凤山寺",
+    "engName": "Hong San See (Chia Chwee Kang)",
+    "main-deity": ""
+  },
+  "112": {
+    "lat": "1.292372",
+    "lng": "103.841011",
+    "chiName": "水廊头凤山寺",
+    "engName": "Hong San See (Chwee Long Tow)",
+    "main-deity": ""
+  },
+  "113": {
+    "lat": "1.340296",
+    "lng": "103.757072",
+    "chiName": "裕廊凤山寺",
+    "engName": "Hong San See (Jurong)",
+    "main-deity": ""
+  },
+  "114": {
+    "lat": "1.434767",
+    "lng": "103.832520",
+    "chiName": "汫水港凤山寺与斗母宫",
+    "engName": "Hong San See Kew Ong Yah temple",
+    "main-deity": ""
+  },
+  "115": {
+    "lat": "1.320045",
+    "lng": "103.910492",
+    "chiName": "樟宜凤山寺",
+    "engName": "Hong San Si (Changi)",
+    "main-deity": ""
+  },
+  "116": {
+    "lat": "1.338236",
+    "lng": "103.893761",
+    "chiName": "大成巷葱茅园凤山宫",
+    "engName": "Hong San Temple",
+    "main-deity": ""
+  },
+  "117": {
+    "lat": "1.451172",
+    "lng": "103.795128",
+    "chiName": "风山坛飞龙宫联合庙",
+    "engName": "Hong Sun Tan Fei Loong Gong Combined Temple",
+    "main-deity": ""
+  },
+  "118": {
+    "lat": "1.451035",
+    "lng": "103.795189",
+    "chiName": "德惠凤山坛",
+    "engName": "Hong Sun Tan Temple",
+    "main-deity": ""
+  },
+  "119": {
+    "lat": "1.439695",
+    "lng": "103.782318",
+    "chiName": "凤图庙",
+    "engName": "Hong Tho Bilw",
+    "main-deity": ""
+  },
+  "120": {
+    "lat": "1.357886",
+    "lng": "103.840111",
+    "chiName": "阜龙宫",
+    "engName": "Hoo Leong Keong",
+    "main-deity": ""
+  },
+  "121": {
+    "lat": "1.365609",
+    "lng": "103.858307",
+    "chiName": "云峰天后庙",
+    "engName": "Hoon Hong Tian Haw Boo",
+    "main-deity": ""
+  },
+  "122": {
+    "lat": "1.322264",
+    "lng": "103.794281",
+    "chiName": "云山宫",
+    "engName": "Hoon San Temple",
+    "main-deity": ""
+  },
+  "123": {
+    "lat": "1.316756",
+    "lng": "103.900993",
+    "chiName": "云仙宫",
+    "engName": "Hoon Sian Keng Temple",
+    "main-deity": ""
+  },
+  "124": {
+    "lat": "1.365609",
+    "lng": "103.858307",
+    "chiName": "云峰古庙及合兴光庙",
+    "engName": "Hoong Hong Koon Beo &amp; Hup Heng Kwang Beo",
+    "main-deity": ""
+  },
+  "125": {
+    "lat": "1.354998",
+    "lng": "103.879005",
+    "chiName": "后港斗母宫",
+    "engName": "Hougang Tou Mu Kung",
+    "main-deity": ""
+  },
+  "126": {
+    "lat": "1.365876",
+    "lng": "103.895477",
+    "chiName": "后港水尾圣娘庙",
+    "engName": "Hougang Twee Boey Teng Niang Temple",
+    "main-deity": ""
+  },
+  "127": {
+    "lat": "1.338579",
+    "lng": "103.856422",
+    "chiName": "华德善堂",
+    "engName": "Hua Teck Siang Tng",
+    "main-deity": ""
+  },
+  "128": {
+    "lat": "1.313801",
+    "lng": "103.883125",
+    "chiName": "花莲宫",
+    "engName": "Huay Lian Keng",
+    "main-deity": ""
+  },
+  "129": {
+    "lat": "1.443434",
+    "lng": "103.835518",
+    "chiName": "合春格福发宫",
+    "engName": "Hup Choon Kek Hock Huat Keng",
+    "main-deity": ""
+  },
+  "130": {
+    "lat": "1.357886",
+    "lng": "103.840393",
+    "chiName": "华光大帝庙",
+    "engName": "Hwa Kwang Tai Tee Temple",
+    "main-deity": ""
+  },
+  "131": {
+    "lat": "1.434767",
+    "lng": "103.832520",
+    "chiName": "华报善堂",
+    "engName": "Hwa Poh Siang Tng",
+    "main-deity": ""
+  },
+  "132": {
+    "lat": "1.443590",
+    "lng": "103.835373",
+    "chiName": "横山庙",
+    "engName": "Hwee San Temple",
+    "main-deity": ""
+  },
+  "133": {
+    "lat": "1.391533",
+    "lng": "103.871925",
+    "chiName": "惹兰加由联合庙",
+    "engName": "Jalan Kayu Joint Temple",
+    "main-deity": ""
+  },
+  "134": {
+    "lat": "1.347130",
+    "lng": "103.740059",
+    "chiName": "集声宫金全法坛",
+    "engName": "Ji Sheng Gong Kim Chuan Whuap Tuah",
+    "main-deity": ""
+  },
+  "135": {
+    "lat": "1.452861",
+    "lng": "103.800575",
+    "chiName": "金福宫功德堂",
+    "engName": "Jin Fu Gong Gong De Tang",
+    "main-deity": ""
+  },
+  "136": {
+    "lat": "1.301689",
+    "lng": "103.896065",
+    "chiName": "金花庙",
+    "engName": "Jin Hua Temple",
+    "main-deity": ""
+  },
+  "137": {
+    "lat": "1.338641",
+    "lng": "103.889435",
+    "chiName": "金龙寺",
+    "engName": "Jin Long Si",
+    "main-deity": ""
+  },
+  "138": {
+    "lat": "1.335574",
+    "lng": "103.949402",
+    "chiName": "锦茂村水美宫",
+    "engName": "Jin Mao Cun Shui Mei Gong",
+    "main-deity": ""
+  },
+  "139": {
+    "lat": "1.367224",
+    "lng": "103.928574",
+    "chiName": "九条桥新芭拿督坛",
+    "engName": "Jiu Tiao Qiao Xinba Nadutan",
+    "main-deity": ""
+  },
+  "140": {
+    "lat": "1.352888",
+    "lng": "103.880150",
+    "chiName": "青云庙安仁宫锦福庙联合庙",
+    "engName": "Joint Society of Qing Yun Meow, Ann Jin Kiong, Chin Fook Meow",
+    "main-deity": ""
+  },
+  "141": {
+    "lat": "1.352952",
+    "lng": "103.724030",
+    "chiName": "裕廊总宫",
+    "engName": "Jurong Combined Temple",
+    "main-deity": ""
+  },
+  "142": {
+    "lat": "1.352952",
+    "lng": "103.724030",
+    "chiName": "裕廊水沟馆",
+    "engName": "Jurong Shui Gou Guan",
+    "main-deity": ""
+  },
+  "143": {
+    "lat": "1.349134",
+    "lng": "103.720207",
+    "chiName": "裕廊西联合宫",
+    "engName": "Jurong West United Temple",
+    "main-deity": ""
+  },
+  "144": {
+    "lat": "1.358850",
+    "lng": "103.892570",
+    "chiName": "开福堂",
+    "engName": "Kai Hock Tong Temple",
+    "main-deity": ""
+  },
+  "145": {
+    "lat": "1.278514",
+    "lng": "103.828484",
+    "chiName": "开山庙",
+    "engName": "Kai San Temple",
+    "main-deity": ""
+  },
+  "146": {
+    "lat": "1.313970",
+    "lng": "103.879692",
+    "chiName": "加冷桥头感天大帝庙",
+    "engName": "Kallang River Bridgehead Gan Tian Da Di Temple",
+    "main-deity": ""
+  },
+  "147": {
+    "lat": "1.357886",
+    "lng": "103.840393",
+    "chiName": "金榜山亭天后会",
+    "engName": "Kampong San Teng Tien How Assn",
+    "main-deity": ""
+  },
+  "148": {
+    "lat": "1.389155",
+    "lng": "103.907043",
+    "chiName": "半港天后宫",
+    "engName": "Kampong Tengah Thian Hou Keng",
+    "main-deity": ""
+  },
+  "149": {
+    "lat": "1.358850",
+    "lng": "103.892570",
+    "chiName": "吉山庙",
+    "engName": "Keat Sun Beo",
+    "main-deity": ""
+  },
+  "150": {
+    "lat": "1.434767",
+    "lng": "103.832520",
+    "chiName": "汫水港斗母宫",
+    "engName": "Kew Ong Yah Temple",
+    "main-deity": ""
+  },
+  "151": {
+    "lat": "1.357886",
+    "lng": "103.840111",
+    "chiName": "谦福律天公坛",
+    "engName": "Kheam Hock Road Tian Gong Tan",
+    "main-deity": ""
+  },
+  "152": {
+    "lat": "1.296587",
+    "lng": "103.856003",
+    "chiName": "琼州天后宫",
+    "engName": "Kheng Chiu Tin Hou Kong",
+    "main-deity": ""
+  },
+  "153": {
+    "lat": "1.365137",
+    "lng": "103.828529",
+    "chiName": "九鯉洞",
+    "engName": "Kiew Lee Tong",
+    "main-deity": ""
+  },
+  "154": {
+    "lat": "1.366893",
+    "lng": "103.927635",
+    "chiName": "九仙宫",
+    "engName": "Kiew Sian King",
+    "main-deity": ""
+  },
+  "155": {
+    "lat": "1.366330",
+    "lng": "103.838722",
+    "chiName": "金英堂",
+    "engName": "Kim Eang Tong",
+    "main-deity": ""
+  },
+  "156": {
+    "lat": "1.341411",
+    "lng": "103.690231",
+    "chiName": "正华村金福宫",
+    "engName": "Kim Hock Keng Temple",
+    "main-deity": ""
+  },
+  "157": {
+    "lat": "1.325966",
+    "lng": "103.891869",
+    "chiName": "金凤庙",
+    "engName": "Kim Hong Temple",
+    "main-deity": ""
+  },
+  "158": {
+    "lat": "1.282397",
+    "lng": "103.827324",
+    "chiName": "金兰庙",
+    "engName": "Kim Lan Beo",
+    "main-deity": ""
+  },
+  "159": {
+    "lat": "1.315106",
+    "lng": "103.927620",
+    "chiName": "金山寺斗山宫",
+    "engName": "Kim San Tze",
+    "main-deity": ""
+  },
+  "160": {
+    "lat": "1.314033",
+    "lng": "103.889709",
+    "chiName": "金洞府",
+    "engName": "Kim Tong Hu",
+    "main-deity": ""
+  },
+  "161": {
+    "lat": "1.372793",
+    "lng": "103.870224",
+    "chiName": "广明堂",
+    "engName": "Kong Beng Tong Temple Association",
+    "main-deity": ""
+  },
+  "162": {
+    "lat": "1.280954",
+    "lng": "103.841042",
+    "chiName": "冈州会馆",
+    "engName": "Kong Chow Wui Koon",
+    "main-deity": ""
+  },
+  "163": {
+    "lat": "1.274330",
+    "lng": "103.807671",
+    "chiName": "广福宫",
+    "engName": "Kong Hock Keng",
+    "main-deity": ""
+  },
+  "164": {
+    "lat": "1.366330",
+    "lng": "103.838722",
+    "chiName": "宏茂桥檺林宫",
+    "engName": "Kong Lim Kong",
+    "main-deity": ""
+  },
+  "165": {
+    "lat": "1.361516",
+    "lng": "103.835815",
+    "chiName": "光明山普觉禅寺",
+    "engName": "Kong Meng San Phor Kark See Monastery",
+    "main-deity": ""
+  },
+  "166": {
+    "lat": "1.326309",
+    "lng": "103.891785",
+    "chiName": "韭菜芭城隍庙",
+    "engName": "Koo Chye Ba Sheng Hong Temple",
+    "main-deity": ""
+  },
+  "167": {
+    "lat": "1.272845",
+    "lng": "103.811562",
+    "chiName": "堃成堂",
+    "engName": "Koon Seng Ting",
+    "main-deity": ""
+  },
+  "168": {
+    "lat": "1.335576",
+    "lng": "103.949036",
+    "chiName": "勿洛檺林宫",
+    "engName": "Kuah Na Keng",
+    "main-deity": ""
+  },
+  "169": {
+    "lat": "1.312480",
+    "lng": "103.901237",
+    "chiName": "如切观音堂",
+    "engName": "Kuan Im Tng Temple (Joo Chiat)",
+    "main-deity": ""
+  },
+  "170": {
+    "lat": "1.391479",
+    "lng": "103.742264",
+    "chiName": "蔡厝港关帝庙",
+    "engName": "Kuan Ti Temple",
+    "main-deity": ""
+  },
+  "171": {
+    "lat": "1.391479",
+    "lng": "103.742264",
+    "chiName": "关云殿",
+    "engName": "Kuan Yun Tian",
+    "main-deity": ""
+  },
+  "172": {
+    "lat": "1.319047",
+    "lng": "103.848938",
+    "chiName": "宽济堂念佛社",
+    "engName": "Kuang Chee Tng Buddhist Association",
+    "main-deity": ""
+  },
+  "173": {
+    "lat": "1.223224",
+    "lng": "103.859871",
+    "chiName": "龟屿大伯公宫",
+    "engName": "Kusu Island Tua Pek Kong Temple",
+    "main-deity": ""
+  },
+  "174": {
+    "lat": "1.300891",
+    "lng": "103.852837",
+    "chiName": "观音堂佛祖庙",
+    "engName": "Kwan Im Thong Hood Cho Temple",
+    "main-deity": ""
+  },
+  "175": {
+    "lat": "1.434767",
+    "lng": "103.832520",
+    "chiName": "关帝庙",
+    "engName": "Kwang Tee Temple",
+    "main-deity": ""
+  },
+  "176": {
+    "lat": "1.315641",
+    "lng": "103.854645",
+    "chiName": "篮投巷大伯公",
+    "engName": "Lan Tou Xiang Tua Pek Kong Temple",
+    "main-deity": ""
+  },
+  "177": {
+    "lat": "1.361490",
+    "lng": "103.831444",
+    "chiName": "龙山宫",
+    "engName": "Leang San King Temple",
+    "main-deity": ""
+  },
+  "178": {
+    "lat": "1.283448",
+    "lng": "103.821877",
+    "chiName": "雷音寺",
+    "engName": "Lei Yin Temple",
+    "main-deity": ""
+  },
+  "179": {
+    "lat": "1.327130",
+    "lng": "103.847893",
+    "chiName": "灵隐寺",
+    "engName": "Leng Ern Jee",
+    "main-deity": ""
+  },
+  "180": {
+    "lat": "1.380539",
+    "lng": "103.753639",
+    "chiName": "龙合山七寨庙",
+    "engName": "Leng Hup San Chee Chea Temple",
+    "main-deity": ""
+  },
+  "181": {
+    "lat": "1.366330",
+    "lng": "103.838722",
+    "chiName": "龙山岩斗母宫",
+    "engName": "Leng San Giam Dou Mu Gong",
+    "main-deity": ""
+  },
+  "182": {
+    "lat": "1.290098",
+    "lng": "103.815094",
+    "chiName": "麟山亭北极宫",
+    "engName": "Leng San Teng (Lin San Teng)",
+    "main-deity": ""
+  },
+  "183": {
+    "lat": "1.391533",
+    "lng": "103.871925",
+    "chiName": "龙南殿",
+    "engName": "Leong Nam Temple",
+    "main-deity": ""
+  },
+  "184": {
+    "lat": "1.314977",
+    "lng": "103.856987",
+    "chiName": "龙山寺",
+    "engName": "Leong San See",
+    "main-deity": ""
+  },
+  "185": {
+    "lat": "1.315761",
+    "lng": "103.854134",
+    "chiName": "鲤江庙",
+    "engName": "Li Jiang Miao",
+    "main-deity": ""
+  },
+  "186": {
+    "lat": "1.357886",
+    "lng": "103.840393",
+    "chiName": "莲花坛",
+    "engName": "Lian Huay Temple",
+    "main-deity": ""
+  },
+  "187": {
+    "lat": "1.274330",
+    "lng": "103.807671",
+    "chiName": "莲峰寺",
+    "engName": "Liang Hong Sze",
+    "main-deity": ""
+  },
+  "188": {
+    "lat": "1.274803",
+    "lng": "103.841255",
+    "chiName": "林氏大宗祠九龙堂家族自治会",
+    "engName": "Lim See Tai Chong Soo Kiu Leong Tong",
+    "main-deity": ""
+  },
+  "189": {
+    "lat": "1.314422",
+    "lng": "103.849205",
+    "chiName": "灵慈行宫",
+    "engName": "Ling Ci Xing Gong",
+    "main-deity": ""
+  },
+  "190": {
+    "lat": "1.346130",
+    "lng": "103.751190",
+    "chiName": "龙凤洞云南大伯公",
+    "engName": "Ling Hong Tong Hoon Lam Tua Pek Kong",
+    "main-deity": ""
+  },
+  "191": {
+    "lat": "1.313808",
+    "lng": "103.886017",
+    "chiName": "凌云殿北辰宫",
+    "engName": "Ling Hoon Ding",
+    "main-deity": ""
+  },
+  "192": {
+    "lat": "1.352952",
+    "lng": "103.724030",
+    "chiName": "灵晋堂",
+    "engName": "Ling Jin Tang",
+    "main-deity": ""
+  },
+  "193": {
+    "lat": "1.383885",
+    "lng": "103.844315",
+    "chiName": "六巡三合庙",
+    "engName": "Liuxun Sanhemiao",
+    "main-deity": ""
+  },
+  "194": {
+    "lat": "1.347117",
+    "lng": "103.740074",
+    "chiName": "龙显山宫",
+    "engName": "Long Xian Shan Gong",
+    "main-deity": ""
+  },
+  "195": {
+    "lat": "1.352952",
+    "lng": "103.724030",
+    "chiName": "龙须岩",
+    "engName": "Long Xu Yan",
+    "main-deity": ""
+  },
+  "196": {
+    "lat": "1.383885",
+    "lng": "103.844315",
+    "chiName": "龙须岩金水馆",
+    "engName": "Longxuyan Jinshuiguan",
+    "main-deity": ""
+  },
+  "197": {
+    "lat": "1.371132",
+    "lng": "103.969727",
+    "chiName": "洛陽大伯公宫",
+    "engName": "Loyang Tua Pek Kong Temple",
+    "main-deity": ""
+  },
+  "198": {
+    "lat": "1.391533",
+    "lng": "103.871925",
+    "chiName": "万国山忠义庙",
+    "engName": "Man Kok Sua Chong Yee Temple",
+    "main-deity": ""
+  },
+  "199": {
+    "lat": "1.450727",
+    "lng": "103.794968",
+    "chiName": "万礼莲合殿",
+    "engName": "Mandai Lian Hup Tng",
+    "main-deity": ""
+  },
+  "200": {
+    "lat": "1.318492",
+    "lng": "103.877884",
+    "chiName": "万山福德祠",
+    "engName": "Mun San Fook Tuck Chee",
+    "main-deity": ""
+  },
+  "201": {
+    "lat": "1.367319",
+    "lng": "103.928444",
+    "chiName": "拿督坛保安宫天德宫",
+    "engName": "Nadutan Baoangong Tiandegong",
+    "main-deity": ""
+  },
+  "202": {
+    "lat": "1.349085",
+    "lng": "103.882431",
+    "chiName": "南安善堂",
+    "engName": "Nam Ann Siang Theon",
+    "main-deity": ""
+  },
+  "203": {
+    "lat": "1.434665",
+    "lng": "103.833054",
+    "chiName": "南凤善堂",
+    "engName": "Nam Hong Siang Theon",
+    "main-deity": ""
+  },
+  "204": {
+    "lat": "1.294617",
+    "lng": "103.841743",
+    "chiName": "南洋圣教总会",
+    "engName": "Nanyang Sacred Union",
+    "main-deity": ""
+  },
+  "205": {
+    "lat": "1.327297",
+    "lng": "103.866776",
+    "chiName": "哪吒坛",
+    "engName": "Ne Zha Tan",
+    "main-deity": ""
+  },
+  "206": {
+    "lat": "1.391501",
+    "lng": "103.742264",
+    "chiName": "五福庙",
+    "engName": "Ngoh Hock Temple",
+    "main-deity": ""
+  },
+  "207": {
+    "lat": "1.305391",
+    "lng": "103.863892",
+    "chiName": "桥北路大伯公坛",
+    "engName": "North Bridge Road Tua Pek Kong",
+    "main-deity": ""
+  },
+  "208": {
+    "lat": "1.289497",
+    "lng": "103.833328",
+    "chiName": "黑桥头玉皇殿",
+    "engName": "Or Kio Tow Geok Hong Tian",
+    "main-deity": ""
+  },
+  "209": {
+    "lat": "1.284166",
+    "lng": "103.836327",
+    "chiName": "欧南山檺林宫",
+    "engName": "Outram Hill Ho Lim Keng Temple",
+    "main-deity": ""
+  },
+  "210": {
+    "lat": "1.391479",
+    "lng": "103.742264",
+    "chiName": "八巃元帅殿",
+    "engName": "Pak Leng Guard Seow Tian",
+    "main-deity": ""
+  },
+  "211": {
+    "lat": "1.328454",
+    "lng": "103.890923",
+    "chiName": "巴耶利峇联合庙",
+    "engName": "Paya Lebar United Temple",
+    "main-deity": ""
+  },
+  "212": {
+    "lat": "1.345433",
+    "lng": "103.843376",
+    "chiName": "碧山亭福德祠",
+    "engName": "Peck San Theng Fu De Ci",
+    "main-deity": ""
+  },
+  "213": {
+    "lat": "1.460904",
+    "lng": "103.811287",
+    "chiName": "蓬莱殿",
+    "engName": "Peng Lai Dian",
+    "main-deity": ""
+  },
+  "214": {
+    "lat": "1.284095",
+    "lng": "103.842529",
+    "chiName": "珍珠坊",
+    "engName": "People's Park Shrine",
+    "main-deity": ""
+  },
+  "215": {
+    "lat": "1.362913",
+    "lng": "103.884254",
+    "chiName": "普救善堂",
+    "engName": "Phoh Kiu Siang Tng",
+    "main-deity": ""
+  },
+  "216": {
+    "lat": "1.275682",
+    "lng": "103.794319",
+    "chiName": "普德善堂",
+    "engName": "Phoh Teck Siang Tng",
+    "main-deity": ""
+  },
+  "217": {
+    "lat": "1.314360",
+    "lng": "103.882538",
+    "chiName": "平安坛",
+    "engName": "Ping Ann Tung Association",
+    "main-deity": ""
+  },
+  "218": {
+    "lat": "1.289390",
+    "lng": "103.842690",
+    "chiName": "保赤宫",
+    "engName": "Po Chiak Keng",
+    "main-deity": ""
+  },
+  "219": {
+    "lat": "1.367224",
+    "lng": "103.928574",
+    "chiName": "保安宫",
+    "engName": "Poh Ann Keng",
+    "main-deity": ""
+  },
+  "220": {
+    "lat": "1.279190",
+    "lng": "103.788681",
+    "chiName": "报恩寺",
+    "engName": "Poh Ern Shih",
+    "main-deity": ""
+  },
+  "221": {
+    "lat": "1.365876",
+    "lng": "103.895477",
+    "chiName": "报德善堂",
+    "engName": "Poh Teck Siang Tng",
+    "main-deity": ""
+  },
+  "222": {
+    "lat": "1.332058",
+    "lng": "103.855560",
+    "chiName": "普忠庙",
+    "engName": "Poh Tiong Beo",
+    "main-deity": ""
+  },
+  "223": {
+    "lat": "1.314057",
+    "lng": "103.883133",
+    "chiName": "宝重庙",
+    "engName": "Poh Tiong Kiong",
+    "main-deity": ""
+  },
+  "224": {
+    "lat": "1.277063",
+    "lng": "103.842514",
+    "chiName": "普陀寺",
+    "engName": "Poo Thor Jee",
+    "main-deity": ""
+  },
+  "225": {
+    "lat": "1.365609",
+    "lng": "103.858307",
+    "chiName": "波东巴西联合庙",
+    "engName": "Potong Pasir Joint Temples Association",
+    "main-deity": ""
+  },
+  "226": {
+    "lat": "1.393443",
+    "lng": "103.890236",
+    "chiName": "般若念佛堂",
+    "engName": "Puat Jit Buddhist Temple",
+    "main-deity": ""
+  },
+  "227": {
+    "lat": "1.335957",
+    "lng": "103.948997",
+    "chiName": "德光岛天降佛堂太阳宫",
+    "engName": "Pulau Tekong Joint Temple",
+    "main-deity": ""
+  },
+  "228": {
+    "lat": "1.403068",
+    "lng": "103.969765",
+    "chiName": "乌敏岛佛山亭大伯公庙",
+    "engName": "Pulau Ubin Fo Shan Teng Tua Pek Kong Temple",
+    "main-deity": ""
+  },
+  "229": {
+    "lat": "1.392351",
+    "lng": "103.915070",
+    "chiName": "榜鹅联合庙",
+    "engName": "Punggol Joint Temple",
+    "main-deity": ""
+  },
+  "230": {
+    "lat": "1.284735",
+    "lng": "103.833893",
+    "chiName": "齐天宫",
+    "engName": "Qi Tian Gong",
+    "main-deity": ""
+  },
+  "231": {
+    "lat": "1.352888",
+    "lng": "103.880150",
+    "chiName": "青云庙",
+    "engName": "Qing Yun Meow",
+    "main-deity": ""
+  },
+  "232": {
+    "lat": "1.352952",
+    "lng": "103.724030",
+    "chiName": "琼瑶教邸",
+    "engName": "Qiong Yao Jiao Di",
+    "main-deity": ""
+  },
+  "233": {
+    "lat": "1.354652",
+    "lng": "103.878723",
+    "chiName": "西河别墅",
+    "engName": "Sai Ho Piat Su",
+    "main-deity": ""
+  },
+  "234": {
+    "lat": "1.383885",
+    "lng": "103.844315",
+    "chiName": "三安府",
+    "engName": "Sam Ann Temple",
+    "main-deity": ""
+  },
+  "235": {
+    "lat": "1.365609",
+    "lng": "103.858307",
+    "chiName": "三尊宫龙华会",
+    "engName": "Sam Choon Keng Liong Wah Huay",
+    "main-deity": ""
+  },
+  "236": {
+    "lat": "1.335147",
+    "lng": "103.949631",
+    "chiName": "三清宫",
+    "engName": "San Qing Gong",
+    "main-deity": ""
+  },
+  "237": {
+    "lat": "1.380539",
+    "lng": "103.753639",
+    "chiName": "三中宫",
+    "engName": "San Zhong Gong",
+    "main-deity": ""
+  },
+  "238": {
+    "lat": "1.340339",
+    "lng": "103.757332",
+    "chiName": "西天佛庙",
+    "engName": "See Thian Foh Temple",
+    "main-deity": ""
+  },
+  "239": {
+    "lat": "1.460766",
+    "lng": "103.811012",
+    "chiName": "三巴旺财神庙",
+    "engName": "Sembawang God of Wealth Temple",
+    "main-deity": ""
+  },
+  "240": {
+    "lat": "1.460852",
+    "lng": "103.811661",
+    "chiName": "三巴旺天后宫",
+    "engName": "Sembawang Tian Ho Keng",
+    "main-deity": ""
+  },
+  "241": {
+    "lat": "1.460904",
+    "lng": "103.811287",
+    "chiName": "三巴旺联合宫",
+    "engName": "Sembawang United Temple",
+    "main-deity": ""
+  },
+  "242": {
+    "lat": "1.276626",
+    "lng": "103.844574",
+    "chiName": "都城隍庙",
+    "engName": "Seng Wong Beo",
+    "main-deity": ""
+  },
+  "243": {
+    "lat": "1.389155",
+    "lng": "103.907043",
+    "chiName": "盛港联合庙",
+    "engName": "Sengkang Joint Temple",
+    "main-deity": ""
+  },
+  "244": {
+    "lat": "1.332778",
+    "lng": "103.933678",
+    "chiName": "修德善堂养心社",
+    "engName": "Seu Teck Sean Tong Yiang Sin Sia",
+    "main-deity": ""
+  },
+  "245": {
+    "lat": "1.391479",
+    "lng": "103.742264",
+    "chiName": "善兴坛",
+    "engName": "Shan Xing Tan",
+    "main-deity": ""
+  },
+  "246": {
+    "lat": "1.320946",
+    "lng": "103.750679",
+    "chiName": "杨桃园城隍庙",
+    "engName": "Sheng Hong Temple",
+    "main-deity": ""
+  },
+  "247": {
+    "lat": "1.392351",
+    "lng": "103.915070",
+    "chiName": "圣家庙",
+    "engName": "Sheng Jia Temple",
+    "main-deity": ""
+  },
+  "248": {
+    "lat": "1.349134",
+    "lng": "103.720207",
+    "chiName": "显龙宫",
+    "engName": "Sheng Leng Temple",
+    "main-deity": ""
+  },
+  "249": {
+    "lat": "1.332538",
+    "lng": "103.899887",
+    "chiName": "石牛洞",
+    "engName": "Shi Niu Dong Temple",
+    "main-deity": ""
+  },
+  "250": {
+    "lat": "1.347117",
+    "lng": "103.740074",
+    "chiName": "石竹庙",
+    "engName": "Shi Zhu Chinese Temple",
+    "main-deity": ""
+  },
+  "251": {
+    "lat": "1.329877",
+    "lng": "103.856483",
+    "chiName": "双林城隍庙",
+    "engName": "Shuang Lin Cheng Huang Miao (Siong Lim Temple)",
+    "main-deity": ""
+  },
+  "252": {
+    "lat": "1.380539",
+    "lng": "103.753639",
+    "chiName": "水沟馆圣德坛",
+    "engName": "Shui Gou Guan Sheng De Tan",
+    "main-deity": ""
+  },
+  "253": {
+    "lat": "1.317332",
+    "lng": "103.904045",
+    "chiName": "仙宫堂",
+    "engName": "Sian Keng Tong",
+    "main-deity": ""
+  },
+  "254": {
+    "lat": "1.303132",
+    "lng": "103.840271",
+    "chiName": "善德堂",
+    "engName": "Sian Teck Tng Vegetarian Convent",
+    "main-deity": ""
+  },
+  "255": {
+    "lat": "1.279930",
+    "lng": "103.846634",
+    "chiName": "紫云庙/仙祖宫",
+    "engName": "Siang Cho Keong",
+    "main-deity": ""
+  },
+  "256": {
+    "lat": "1.450727",
+    "lng": "103.794968",
+    "chiName": "玄山庙救世坛",
+    "engName": "Siang San Temple",
+    "main-deity": ""
+  },
+  "257": {
+    "lat": "1.326566",
+    "lng": "103.866035",
+    "chiName": "万里港福德祠",
+    "engName": "Sin Choon Huat Temple",
+    "main-deity": ""
+  },
+  "258": {
+    "lat": "1.330478",
+    "lng": "103.822372",
+    "chiName": "新恒山亭大伯公庙",
+    "engName": "Sin Heng San Teng Tua Pek Kong",
+    "main-deity": ""
+  },
+  "259": {
+    "lat": "1.294435",
+    "lng": "103.838791",
+    "chiName": "新加坡佛教居士林",
+    "engName": "Singapore Buddhist Lodge",
+    "main-deity": ""
+  },
+  "260": {
+    "lat": "1.391479",
+    "lng": "103.742264",
+    "chiName": "顺龙宫",
+    "engName": "Soon Leng Keng",
+    "main-deity": ""
+  },
+  "261": {
+    "lat": "1.391479",
+    "lng": "103.742264",
+    "chiName": "顺龙庙",
+    "engName": "Soon Leng Temple",
+    "main-deity": ""
+  },
+  "262": {
+    "lat": "1.327682",
+    "lng": "103.918304",
+    "chiName": "顺山亭",
+    "engName": "Soon San Teng",
+    "main-deity": ""
+  },
+  "263": {
+    "lat": "1.433824",
+    "lng": "103.841576",
+    "chiName": "顺西宫水池林",
+    "engName": "Soon Say Keng Reservoir Tua Pek Kong",
+    "main-deity": ""
+  },
+  "264": {
+    "lat": "1.315497",
+    "lng": "103.884720",
+    "chiName": "顺天宫",
+    "engName": "Soon Thian Keing",
+    "main-deity": ""
+  },
+  "265": {
+    "lat": "1.314186",
+    "lng": "103.889763",
+    "chiName": "汕头社天后庙",
+    "engName": "Swatow Sia Mazu Temple",
+    "main-deity": ""
+  },
+  "266": {
+    "lat": "1.380582",
+    "lng": "103.841698",
+    "chiName": "水沟馆葛岸馆",
+    "engName": "Swee Kow Kuan Kueh Hua Kwan",
+    "main-deity": ""
+  },
+  "267": {
+    "lat": "1.332538",
+    "lng": "103.899841",
+    "chiName": "赐正宫",
+    "engName": "Sze Cheng Keng Temple",
+    "main-deity": ""
+  },
+  "268": {
+    "lat": "1.328025",
+    "lng": "103.891098",
+    "chiName": "金泉律赐福宫",
+    "engName": "Sze Hock Keng",
+    "main-deity": ""
+  },
+  "269": {
+    "lat": "1.315532",
+    "lng": "103.854256",
+    "chiName": "太上老君庙",
+    "engName": "Tai Shang Lao Jun Temple",
+    "main-deity": ""
+  },
+  "270": {
+    "lat": "1.277527",
+    "lng": "103.828781",
+    "chiName": "太阳宫",
+    "engName": "Tai Yeong Kon",
+    "main-deity": ""
+  },
+  "271": {
+    "lat": "1.355912",
+    "lng": "103.949463",
+    "chiName": "淡滨尼联合宫",
+    "engName": "Tampines Chinese Temple",
+    "main-deity": ""
+  },
+  "272": {
+    "lat": "1.355912",
+    "lng": "103.949463",
+    "chiName": "淡滨尼福安殿",
+    "engName": "Tampines Foo Ang Tien",
+    "main-deity": ""
+  },
+  "273": {
+    "lat": "1.355912",
+    "lng": "103.949463",
+    "chiName": "淡滨尼济阳堂",
+    "engName": "Tampines Ji Yang Tang",
+    "main-deity": ""
+  },
+  "274": {
+    "lat": "1.355912",
+    "lng": "103.949463",
+    "chiName": "淡滨尼吉星亭",
+    "engName": "Tampines Kiat Sing Ting",
+    "main-deity": ""
+  },
+  "275": {
+    "lat": "1.355912",
+    "lng": "103.949463",
+    "chiName": "淡滨尼顺兴古庙",
+    "engName": "Tampines Soon Hin Ko Beo",
+    "main-deity": ""
+  },
+  "276": {
+    "lat": "1.355912",
+    "lng": "103.949463",
+    "chiName": "淡滨尼天公坛",
+    "engName": "Tampines Tian Gong Tan",
+    "main-deity": ""
+  },
+  "277": {
+    "lat": "1.355912",
+    "lng": "103.949463",
+    "chiName": "淡滨尼后池厅",
+    "engName": "Tampines Toh Tew Kang",
+    "main-deity": ""
+  },
+  "278": {
+    "lat": "1.355912",
+    "lng": "103.949463",
+    "chiName": "淡滨尼慈灵宫",
+    "engName": "Tampines Tsi Ling Kong",
+    "main-deity": ""
+  },
+  "279": {
+    "lat": "1.355912",
+    "lng": "103.949463",
+    "chiName": "淡滨尼大伯公",
+    "engName": "Tampines Tua Pek Kong Keng",
+    "main-deity": ""
+  },
+  "280": {
+    "lat": "1.314725",
+    "lng": "103.778923",
+    "chiName": "圆福殿",
+    "engName": "Tan Kong Tian",
+    "main-deity": ""
+  },
+  "281": {
+    "lat": "1.273701",
+    "lng": "103.828011",
+    "chiName": "东岳庙",
+    "engName": "Tang Gah Beo",
+    "main-deity": ""
+  },
+  "282": {
+    "lat": "1.298213",
+    "lng": "103.837761",
+    "chiName": "东陵同善堂",
+    "engName": "Tanglin Tong Sian Tng",
+    "main-deity": ""
+  },
+  "283": {
+    "lat": "1.346956",
+    "lng": "103.703773",
+    "chiName": "斗天宫",
+    "engName": "Tao Tian Keng",
+    "main-deity": ""
+  },
+  "284": {
+    "lat": "1.271434",
+    "lng": "103.808975",
+    "chiName": "直落布兰雅天公庙",
+    "engName": "Telok Blangah Ting Kong Beo",
+    "main-deity": ""
+  },
+  "285": {
+    "lat": "1.271434",
+    "lng": "103.808975",
+    "chiName": "莲峰寺广福宫协和宫联合庙",
+    "engName": "Temple of Liang Hong Sze Kong Hock Keng Heap Hoe Keng",
+    "main-deity": ""
+  },
+  "286": {
+    "lat": "1.368991",
+    "lng": "103.872597",
+    "chiName": "镇山天福宫",
+    "engName": "Teng San Tian Hock Temple",
+    "main-deity": ""
+  },
+  "287": {
+    "lat": "1.422712",
+    "lng": "103.832993",
+    "chiName": "长秀馆",
+    "engName": "Teong Siew Kuan",
+    "main-deity": ""
+  },
+  "288": {
+    "lat": "1.422712",
+    "lng": "103.832993",
+    "chiName": "长袖威灵东山联合庙",
+    "engName": "Teong Siew Wei Ling Dong Shan Temple",
+    "main-deity": ""
+  },
+  "289": {
+    "lat": "1.311609",
+    "lng": "103.879601",
+    "chiName": "天善堂",
+    "engName": "Then Shen Temple",
+    "main-deity": ""
+  },
+  "290": {
+    "lat": "1.357886",
+    "lng": "103.840111",
+    "chiName": "金福宫(崙仔尾大伯公)",
+    "engName": "Thiam Hock Keng",
+    "main-deity": ""
+  },
+  "291": {
+    "lat": "1.280916",
+    "lng": "103.847626",
+    "chiName": "天福宫",
+    "engName": "Thian Hock Keng",
+    "main-deity": ""
+  },
+  "292": {
+    "lat": "1.357886",
+    "lng": "103.840393",
+    "chiName": "汤申庙",
+    "engName": "Thomson Combined Temple",
+    "main-deity": ""
+  },
+  "293": {
+    "lat": "1.393537",
+    "lng": "103.890045",
+    "chiName": "南洋同奉善堂",
+    "engName": "Thong Hong Siang Tng",
+    "main-deity": ""
+  },
+  "294": {
+    "lat": "1.314639",
+    "lng": "103.885948",
+    "chiName": "同敬善堂诚善社",
+    "engName": "Thong Kheng Charitable Institution",
+    "main-deity": ""
+  },
+  "295": {
+    "lat": "1.326451",
+    "lng": "103.849312",
+    "chiName": "同德善堂念心社",
+    "engName": "Thong Teck Sian Tong Lian Sin Sia",
+    "main-deity": ""
+  },
+  "296": {
+    "lat": "1.318861",
+    "lng": "103.905090",
+    "chiName": "德教太和观",
+    "engName": "Thye Hua Kwan Moral Society",
+    "main-deity": ""
+  },
+  "297": {
+    "lat": "1.318532",
+    "lng": "103.849457",
+    "chiName": "天保堂",
+    "engName": "Tian Bao Tang",
+    "main-deity": ""
+  },
+  "298": {
+    "lat": "1.392351",
+    "lng": "103.915070",
+    "chiName": "天慈宫",
+    "engName": "Tian Ci Gong",
+    "main-deity": ""
+  },
+  "299": {
+    "lat": "1.365876",
+    "lng": "103.895477",
+    "chiName": "天德圣庙",
+    "engName": "Tian De Temple",
+    "main-deity": ""
+  },
+  "300": {
+    "lat": "1.349134",
+    "lng": "103.720207",
+    "chiName": "天公墰昭灵宫",
+    "engName": "Tian Gong Tan Zhao Ling Gong",
+    "main-deity": ""
+  },
+  "301": {
+    "lat": "1.443434",
+    "lng": "103.835518",
+    "chiName": "天福殿",
+    "engName": "Tian Hock Dian",
+    "main-deity": ""
+  },
+  "302": {
+    "lat": "1.392351",
+    "lng": "103.915070",
+    "chiName": "天君府",
+    "engName": "Tian Jun Temple",
+    "main-deity": ""
+  },
+  "303": {
+    "lat": "1.377317",
+    "lng": "103.875572",
+    "chiName": "天空庙",
+    "engName": "Tian Kong Temple",
+    "main-deity": ""
+  },
+  "304": {
+    "lat": "1.357886",
+    "lng": "103.840111",
+    "chiName": "天龙宫",
+    "engName": "Tian Leong Keng",
+    "main-deity": ""
+  },
+  "305": {
+    "lat": "1.313527",
+    "lng": "103.876190",
+    "chiName": "天寿堂吕祖宫",
+    "engName": "Tian Shou Tang Lu Zu Gong",
+    "main-deity": ""
+  },
+  "306": {
+    "lat": "1.367224",
+    "lng": "103.928574",
+    "chiName": "天德宫",
+    "engName": "Tian Teck Keng",
+    "main-deity": ""
+  },
+  "307": {
+    "lat": "1.450727",
+    "lng": "103.794968",
+    "chiName": "天显庙",
+    "engName": "Tian Xian Miao",
+    "main-deity": ""
+  },
+  "308": {
+    "lat": "1.380539",
+    "lng": "103.753639",
+    "chiName": "天云庙",
+    "engName": "Tian Yun Miao",
+    "main-deity": ""
+  },
+  "309": {
+    "lat": "1.452357",
+    "lng": "103.800545",
+    "chiName": "天祖庙",
+    "engName": "Tien Chor temple",
+    "main-deity": ""
+  },
+  "310": {
+    "lat": "1.351746",
+    "lng": "103.843712",
+    "chiName": "振源園天公壇",
+    "engName": "Tien Kong Thun Temple",
+    "main-deity": ""
+  },
+  "311": {
+    "lat": "1.315998",
+    "lng": "103.858139",
+    "chiName": "天龙坛",
+    "engName": "Tien Loong Thong",
+    "main-deity": ""
+  },
+  "312": {
+    "lat": "1.328025",
+    "lng": "103.891098",
+    "chiName": "天圣赐福联合庙",
+    "engName": "Tien Sen Sze Hock Combined Temple",
+    "main-deity": ""
+  },
+  "313": {
+    "lat": "1.328025",
+    "lng": "103.891098",
+    "chiName": "天圣坛",
+    "engName": "Tien Sen Tua",
+    "main-deity": ""
+  },
+  "314": {
+    "lat": "1.315825",
+    "lng": "103.905029",
+    "chiName": "重兴祖庙",
+    "engName": "Tioh Hin Cho Temple",
+    "main-deity": ""
+  },
+  "315": {
+    "lat": "1.372793",
+    "lng": "103.870224",
+    "chiName": "忠义馆",
+    "engName": "Tiong Ee Kwan Temple",
+    "main-deity": ""
+  },
+  "316": {
+    "lat": "1.291160",
+    "lng": "103.803993",
+    "chiName": "忠义庙",
+    "engName": "Tiong Ghee Temple",
+    "main-deity": ""
+  },
+  "317": {
+    "lat": "1.365609",
+    "lng": "103.858307",
+    "chiName": "天性祠",
+    "engName": "Tiong Sing Sze",
+    "main-deity": ""
+  },
+  "318": {
+    "lat": "1.443434",
+    "lng": "103.835518",
+    "chiName": "朝云殿",
+    "engName": "Tiow Hoon Tien",
+    "main-deity": ""
+  },
+  "319": {
+    "lat": "1.338579",
+    "lng": "103.851700",
+    "chiName": "大芭窑修德善堂",
+    "engName": "Toa Payoh Seu Teck Sean Tong",
+    "main-deity": ""
+  },
+  "320": {
+    "lat": "1.338579",
+    "lng": "103.856422",
+    "chiName": "通兴港神会",
+    "engName": "Tong Heng Kang Sin Huay",
+    "main-deity": ""
+  },
+  "321": {
+    "lat": "1.346302",
+    "lng": "103.751152",
+    "chiName": "东天宫",
+    "engName": "Tong Tien Kung",
+    "main-deity": ""
+  },
+  "322": {
+    "lat": "1.345701",
+    "lng": "103.734200",
+    "chiName": "通准庙",
+    "engName": "Tong Whye Temple",
+    "main-deity": ""
+  },
+  "323": {
+    "lat": "1.321080",
+    "lng": "103.907150",
+    "chiName": "旃檀林",
+    "engName": "Tsan Tan Lim Temple",
+    "main-deity": ""
+  },
+  "324": {
+    "lat": "1.344800",
+    "lng": "103.713295",
+    "chiName": "大士伯公宫",
+    "engName": "Tuas Pek Kong Keng",
+    "main-deity": ""
+  },
+  "325": {
+    "lat": "1.347117",
+    "lng": "103.740074",
+    "chiName": "临江殿暨对山庙",
+    "engName": "Tui San Miew",
+    "main-deity": ""
+  },
+  "326": {
+    "lat": "1.338579",
+    "lng": "103.856422",
+    "chiName": "大芭窑伍合庙",
+    "engName": "United Five Temples of Toa Payoh",
+    "main-deity": ""
+  },
+  "327": {
+    "lat": "1.434725",
+    "lng": "103.833206",
+    "chiName": "华山宫",
+    "engName": "Wah Sua Keng",
+    "main-deity": ""
+  },
+  "328": {
+    "lat": "1.284284",
+    "lng": "103.849579",
+    "chiName": "粤海清庙",
+    "engName": "Wak Hai Cheng Bio",
+    "main-deity": ""
+  },
+  "329": {
+    "lat": "1.422712",
+    "lng": "103.832993",
+    "chiName": "威灵宫",
+    "engName": "Wei Ling Keng",
+    "main-deity": ""
+  },
+  "330": {
+    "lat": "1.349134",
+    "lng": "103.720207",
+    "chiName": "西海岸福德祠",
+    "engName": "West Coast Hock Teck Si",
+    "main-deity": ""
+  },
+  "331": {
+    "lat": "1.452357",
+    "lng": "103.800545",
+    "chiName": "兀兰联圣庙",
+    "engName": "Woodlands Lian Sheng Miao",
+    "main-deity": ""
+  },
+  "332": {
+    "lat": "1.452357",
+    "lng": "103.800545",
+    "chiName": "武当山",
+    "engName": "Wu Dang Shan",
+    "main-deity": ""
+  },
+  "333": {
+    "lat": "1.313475",
+    "lng": "103.887794",
+    "chiName": "五凤庙",
+    "engName": "Wu Feng Miao",
+    "main-deity": ""
+  },
+  "334": {
+    "lat": "1.372793",
+    "lng": "103.870224",
+    "chiName": "午峰岩宫",
+    "engName": "Wu Hong Yan Kong Temple",
+    "main-deity": ""
+  },
+  "335": {
+    "lat": "1.346388",
+    "lng": "103.751190",
+    "chiName": "五雷宫",
+    "engName": "Wu Lui Sien Sze Temple",
+    "main-deity": ""
+  },
+  "336": {
+    "lat": "1.352952",
+    "lng": "103.724030",
+    "chiName": "西山宫",
+    "engName": "Xi Shan Gong",
+    "main-deity": ""
+  },
+  "337": {
+    "lat": "1.367207",
+    "lng": "103.928253",
+    "chiName": "仙姑殿",
+    "engName": "Xian Gu Dian",
+    "main-deity": ""
+  },
+  "338": {
+    "lat": "1.359516",
+    "lng": "103.968346",
+    "chiName": "水尾圣娘庙",
+    "engName": "Yan Kit Village Chinese Temple",
+    "main-deity": ""
+  },
+  "339": {
+    "lat": "1.391479",
+    "lng": "103.742264",
+    "chiName": "虞都庵",
+    "engName": "Yi Do An",
+    "main-deity": ""
+  },
+  "340": {
+    "lat": "1.434167",
+    "lng": "103.841576",
+    "chiName": "义顺镇联合庙",
+    "engName": "Yishun United Temple",
+    "main-deity": ""
+  },
+  "341": {
+    "lat": "1.281185",
+    "lng": "103.847832",
+    "chiName": "玉皇宫 (庆德楼）",
+    "engName": "Yu Huang Gong (Keng Teck Whay Building)",
+    "main-deity": ""
+  },
+  "342": {
+    "lat": "1.347546",
+    "lng": "103.703041",
+    "chiName": "玉皇殿",
+    "engName": "Yu Huang Tian",
+    "main-deity": ""
+  },
+  "343": {
+    "lat": "1.347627",
+    "lng": "103.703346",
+    "chiName": "玉皇殿联合宫",
+    "engName": "Yu Huang Tian Combined Temple",
+    "main-deity": ""
+  },
+  "344": {
+    "lat": "1.313201",
+    "lng": "103.877510",
+    "chiName": "运德善堂同心社",
+    "engName": "Yun Teck Sian Tng Thong Sin Sia",
+    "main-deity": ""
+  },
+  "345": {
+    "lat": "1.354672",
+    "lng": "103.834442",
+    "chiName": "七星宫",
+    "engName": "Zeh Shing Keong Temple",
+    "main-deity": ""
+  },
+  "346": {
+    "lat": "1.365876",
+    "lng": "103.895477",
+    "chiName": "钟头宫",
+    "engName": "Zhong Tou Gong",
+    "main-deity": ""
+  },
+  "347": {
+    "lat": "1.372793",
+    "lng": "103.870224",
+    "chiName": "忠义天明庙",
+    "engName": "Zhong Yi Tian Ming Miao",
+    "main-deity": ""
+  },
+  "348": {
+    "lat": "1.328454",
+    "lng": "103.919167",
+    "chiName": "竹云宫",
+    "engName": "Zhu Yun Gong",
+    "main-deity": ""
+  },
+  "349": {
+    "lat": "1.282316",
+    "lng": "103.845497",
+    "chiName": "德教會紫经阁",
+    "engName": "Zi Jing Ge Moral Uplifting Society",
+    "main-deity": ""
+  },
+  "350": {
+    "lat": "1.358850",
+    "lng": "103.892570",
+    "chiName": "紫云开吉宫",
+    "engName": "Zi Yun Kai Ji Gong",
+    "main-deity": ""
+  }
+}
